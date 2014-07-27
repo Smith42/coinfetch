@@ -21,6 +21,16 @@ Dogecoin.
 If the coins are reversed (e.g. <code>$ coinfetch btc doge</code> ), the amount of Dogecoin
 that can currently be bought with one Bitcoin will be returned.
 
+Resolving Dependencies
+----------------------
+This script requires python3 and python3-requests
+
+Python3 can be installed through your distrubution's package manager, or downloaded from 
+[python's website](https://www.python.org/).
+
+Python3-requests can be installed through pip, or downloaded from 
+[their website](http://docs.python-requests.org/en/latest/).
+
 Installation
 ------------
 
