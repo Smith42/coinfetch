@@ -32,7 +32,8 @@ Python3-requests can be installed through pip:
 
 <code>$ pip install requests</code>
 
-[Python3-requests also have installation instructions on their website](http://docs.python-requests.org/en/latest/user/install/#install).
+Python3-requests also have installation instructions on their 
+[website](http://docs.python-requests.org/en/latest/user/install/#install).
 
 Installation
 ------------
