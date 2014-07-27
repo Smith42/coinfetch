@@ -23,7 +23,7 @@ that can currently be bought with one Bitcoin will be returned.
 
 Resolving Dependencies
 ----------------------
-This script requires python3 and python3-requests
+This script requires python3 and python3-requests.
 
 Python3 can be installed through your distrubution's package manager, or downloaded from 
 [python's website](https://www.python.org/).
