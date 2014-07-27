@@ -28,8 +28,11 @@ This script requires python3 and python3-requests.
 Python3 can be installed through your distrubution's package manager, or downloaded from 
 [python's website](https://www.python.org/).
 
-Python3-requests can be installed through pip, or downloaded from 
-[their website](http://docs.python-requests.org/en/latest/).
+Python3-requests can be installed through pip:
+
+<code>$ pip install requests</code>
+
+[Python3-requests also have installation instructions on their website](http://docs.python-requests.org/en/latest/user/install/#install).
 
 Installation
 ------------
