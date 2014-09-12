@@ -47,3 +47,14 @@ Licensing
 
 This script is [free software](http://gnu.org/philosophy/free-sw.html), licensed
 under the terms of the MIT license. See [LICENSE](LICENSE) for more information.
+
+Donating
+---------
+
+Any donations will be gratefully recieved:
+
+DOGE: DJepsAo6xM5LY6HosM6mFB6EDDaJ9BvasC
+
+BTC:  1BY5hrgvAJAmKzFHbuCgNUucg231iyBW4C
+
+LTC:  LLLtdzMJg5ZqFDz1ncyyVnMizvCbzFNfAk
